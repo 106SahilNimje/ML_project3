@@ -13,7 +13,7 @@ This machine learning project predicts the cost of meals in restaurants based on
 ## 📁 Files
 
 - `restaurant_cost_prediction.ipynb`: Jupyter notebook containing full implementation
-- `restaurant_data.csv`: Raw dataset (used for training)
+- `CodeCraft ML Competition Dataset.xlsx`: Raw dataset (used for training)
 - `model.pkl` *(optional)*: Saved trained model (if included)
 
 ## 📊 How to Run
