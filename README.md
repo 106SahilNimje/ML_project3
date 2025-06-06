@@ -31,7 +31,7 @@ Open and run the notebook:
 restaurant_cost_prediction.ipynb
 
 📌 Project Link
-🔗 Click here to view the full project on GitHub
+🔗 [Click here to view the full project on GitHub](https://github.com/106SahilNimje/ML_project3)
 
 
 👨‍💻 Author
